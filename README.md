@@ -201,7 +201,7 @@ Mocky allows you to create a mock API endpoint quickly. Follow these steps:
 
 ##### 2. **Capturing API Requests with Postman (OPTIONAL)**
 
-To test the API request and capture the response, use Postman:
+To test the API request using Postman do the following:
 
 1. Download and install Postman from [Postman website](https://www.postman.com/downloads/).
 2. Open Postman
