@@ -1,0 +1,308 @@
+[
+    {
+        "name": "service a",
+        "product_index": "hc-ser-0001",
+        "department": {
+            "name": "electrocardiography"
+        },
+        "speciality": {
+            "name": "cardiology"
+        },
+        "category": {
+            "name": "fetal medicine"
+        },
+        "nature_of_procedure": {
+            "name": "diagnostic imaging"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 100.0
+            },
+            {
+                "id": 2,
+                "price": 200.0
+            },
+            {
+                "id": 3,
+                "price": 150.0
+            },
+            {
+                "id": 4,
+                "price": 300.0
+            }
+        ]
+    },
+    {
+        "name": "service b",
+        "product_index": "hc-ser-0002",
+        "department": {
+            "name": "electrocardiography"
+        },
+        "speciality": {
+            "name": "electrocardiogram"
+        },
+        "category": {
+            "name": "paediatric radiology"
+        },
+        "nature_of_procedure": {
+            "name": "diagnostic imaging"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 150.0
+            },
+            {
+                "id": 2,
+                "price": 150.0
+            },
+            {
+                "id": 3,
+                "price": 100.0
+            },
+            {
+                "id": 4,
+                "price": 100.0
+            }
+        ]
+    },
+    {
+        "name": "service c",
+        "product_index": "hc-ser-0003",
+        "department": {
+            "name": "electrocardiography"
+        },
+        "speciality": {
+            "name": "ultrasound scan"
+        },
+        "category": {
+            "name": "paediatric radiology"
+        },
+        "nature_of_procedure": {
+            "name": "diagnostic imaging"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 200.0
+            },
+            {
+                "id": 2,
+                "price": 100.0
+            },
+            {
+                "id": 3,
+                "price": 300.0
+            },
+            {
+                "id": 4,
+                "price": 200.0
+            }
+        ]
+    },
+    {
+        "name": "service d",
+        "product_index": "hc-ser-0004",
+        "department": {
+            "name": "electrocardiography"
+        },
+        "speciality": {
+            "name": "imaging"
+        },
+        "category": {
+            "name": "cardiology"
+        },
+        "nature_of_procedure": {
+            "name": "diagnostic imaging"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 300.0
+            },
+            {
+                "id": 2,
+                "price": 200.0
+            },
+            {
+                "id": 3,
+                "price": 300.0
+            },
+            {
+                "id": 4,
+                "price": 150.0
+            }
+        ]
+    },
+    {
+        "name": "service e",
+        "product_index": "hc-ser-0005",
+        "department": {
+            "name": "electrocardiography"
+        },
+        "speciality": {
+            "name": "interventional radiology"
+        },
+        "category": {
+            "name": "cardiology"
+        },
+        "nature_of_procedure": {
+            "name": "therapeautic"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 100.0
+            },
+            {
+                "id": 2,
+                "price": 150.0
+            },
+            {
+                "id": 3,
+                "price": 200.0
+            },
+            {
+                "id": 4,
+                "price": 100.0
+            }
+        ]
+    },
+    {
+        "name": "service h",
+        "product_index": "hc-ser-0007",
+        "department": {
+            "name": "radiology"
+        },
+        "speciality": {
+            "name": "x-ray"
+        },
+        "category": {
+            "name": "interventional radiology"
+        },
+        "nature_of_procedure": {
+            "name": "therapeautic"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 200.0
+            },
+            {
+                "id": 2,
+                "price": 300.0
+            },
+            {
+                "id": 3,
+                "price": 150.0
+            },
+            {
+                "id": 4,
+                "price": 100.0
+            }
+        ]
+    },
+    {
+        "name": "service i",
+        "product_index": "hc-ser-0008",
+        "department": {
+            "name": "radiology"
+        },
+        "speciality": {
+            "name": "fluoroscopy"
+        },
+        "category": {
+            "name": "breast imaging"
+        },
+        "nature_of_procedure": {
+            "name": "interventional"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 150.0
+            },
+            {
+                "id": 2,
+                "price": 200.0
+            },
+            {
+                "id": 3,
+                "price": 300.0
+            },
+            {
+                "id": 4,
+                "price": 100.0
+            }
+        ]
+    },
+    {
+        "name": "service j",
+        "product_index": "hc-ser-0009",
+        "department": {
+            "name": "radiology"
+        },
+        "speciality": {
+            "name": "computed tomography scan"
+        },
+        "category": {
+            "name": "breast imaging"
+        },
+        "nature_of_procedure": {
+            "name": "interventional"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 300.0
+            },
+            {
+                "id": 2,
+                "price": 100.0
+            },
+            {
+                "id": 3,
+                "price": 100.0
+            },
+            {
+                "id": 4,
+                "price": 150.0
+            }
+        ]
+    },
+    {
+        "name": "service k",
+        "product_index": "hc-ser-0010",
+        "department": {
+            "name": "radiology"
+        },
+        "speciality": {
+            "name": "electrocardiogram"
+        },
+        "category": {
+            "name": "chest imaging"
+        },
+        "nature_of_procedure": {
+            "name": "interventional"
+        },
+        "service_providers": [
+            {
+                "id": 1,
+                "price": 150.0
+            },
+            {
+                "id": 2,
+                "price": 200.0
+            },
+            {
+                "id": 3,
+                "price": 200.0
+            },
+            {
+                "id": 4,
+                "price": 300.0
+            }
+        ]
+    }
+]

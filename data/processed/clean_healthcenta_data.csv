@@ -1,0 +1,10 @@
+,PRODUCT INDEX,SERVICE,DEPARTMENT,SPECIALTY,CATEGORY,NATURE OF ENT. PROCEDURE,SP. 1,SP. 2,SP. 3,SP. 4,BODY_PART
+1,hc-ser-0001,service a,electrocardiography,cardiology,fetal medicine,diagnostic imaging,100.0,200.0,150.0,300.0,heart
+2,hc-ser-0002,service b,electrocardiography,electrocardiogram,paediatric radiology,diagnostic imaging,150.0,150.0,100.0,100.0,heart
+3,hc-ser-0003,service c,electrocardiography,ultrasound scan,paediatric radiology,diagnostic imaging,200.0,100.0,300.0,200.0,heart
+4,hc-ser-0004,service d,electrocardiography,imaging,cardiology,diagnostic imaging,300.0,200.0,300.0,150.0,heart
+5,hc-ser-0005,service e,electrocardiography,interventional radiology,cardiology,therapeautic,100.0,150.0,200.0,100.0,heart
+9,hc-ser-0007,service h,radiology,x-ray,interventional radiology,therapeautic,200.0,300.0,150.0,100.0,head
+10,hc-ser-0008,service i,radiology,fluoroscopy,breast imaging,interventional,150.0,200.0,300.0,100.0,head
+11,hc-ser-0009,service j,radiology,computed tomography scan,breast imaging,interventional,300.0,100.0,100.0,150.0,head
+12,hc-ser-0010,service k,radiology,electrocardiogram,chest imaging,interventional,150.0,200.0,200.0,300.0,head
