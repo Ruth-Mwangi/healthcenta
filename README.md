@@ -31,7 +31,6 @@ This project processes healthcare service data, formats it into JSON, and posts 
 
 4. [Testing](#testing)
 
-5. [Future Improvements](#future-improvements)
 
 ---
 
