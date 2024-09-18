@@ -14,7 +14,7 @@ This project processes healthcare service data, formats it into JSON, and posts 
 
    - [Run Project](#run-project)
 
-2. [Folder Structure](#folder-structure)
+2. [Project Structure](#project-structure)
 
 3. [Code Walkthrough](#code-walkthrough)
 
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## Folder Structure
+## Project Structure
 The project is organized into several directories:
 
 - src/: Contains the source code for the project, including modules for data processing, API interaction, and utilities.
