@@ -227,7 +227,7 @@ The project includes unit tests for key data processing functions:
 
 - Data Processing Tests (`test_data_processing.py`): Tests for the fuctions that perform cleaning and transforming data.
 
-In the project directory the code below for tests
+run the code below for unit tests
 
 ```bash
 python -m unittest discover
