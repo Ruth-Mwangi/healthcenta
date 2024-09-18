@@ -53,7 +53,7 @@ source venv/bin/activate
 ```
 
 #### 3. Environment Variables
-1. Create a .env file to store environment variables such as:
+1. Create a .env file to store environment variables:
 
 ```bash
 touch .env
